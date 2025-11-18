@@ -29,3 +29,6 @@ invokes the Mistral model to generate an answer
 prints the final response
 
 It serves as a clean and minimal foundation before exploring more advanced agentic workflows.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarSLearning/minimal-langgraph-mistral/blob/main/minimal_chat_workflow.ipynb)
+
